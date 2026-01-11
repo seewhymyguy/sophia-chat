@@ -1,0 +1,15 @@
+{
+  "name": "Sofia Chat",
+  "short_name": "Sofia",
+  "start_url": "/main.html",
+  "display": "standalone",
+  "background_color": "#120015",
+  "theme_color": "#3a002a",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
